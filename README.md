@@ -1,4 +1,4 @@
-# Voice-Assistant
+## Voice-Assistant
 
 This voice assistant is built using Python that allows us to perform tasks with the help of a single voice command.
 Without even typing a word, you will be able to send texts, do Wikipedia searches and many more.
@@ -26,7 +26,7 @@ asking for weather updates and many more can be automated.
 ### Libraries Used
 
 ```
- pyttsx3                     -   used for converting text-to-speech                - 
+ pyttsx3                     -   used for converting text-to-speech                
  speech_recognition          -   used for speech recognition
  wolframalpha                -   used to compute expert level answers
  pywhatkit                   -   to send messages on whatsapp and play songs on YouTube
